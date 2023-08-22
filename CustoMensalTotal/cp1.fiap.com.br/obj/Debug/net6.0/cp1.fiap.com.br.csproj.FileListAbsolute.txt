@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\bin\Debug\net6.0\cp1.fiap.com.br.exe
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\bin\Debug\net6.0\cp1.fiap.com.br.deps.json
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\bin\Debug\net6.0\cp1.fiap.com.br.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\bin\Debug\net6.0\cp1.fiap.com.br.dll
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\bin\Debug\net6.0\cp1.fiap.com.br.pdb
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.dll
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\refint\cp1.fiap.com.br.dll
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.pdb
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\cp1.fiap.com.br.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\.NET\CustoMensalTotal\cp1.fiap.com.br\obj\Debug\net6.0\ref\cp1.fiap.com.br.dll
